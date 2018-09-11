@@ -1,27 +1,32 @@
-HTML, Head, Body, p, a, ul, ol, li e strong.
+<!--HTML, Head, Body, p, a, ul, ol, li e strong.-->
 
 <!doctype html>
-<html>
-     <head> 
-      <title> Documeto das tags </title>
-	<meta charset: "UTF-8" />
-     <head/>
-  <body>
-	<p>Paragráfo <p/>
-	<a href="link">nome do link< /a>
+<html lang="pt-br">
 
-	<ul> <-- indica que aqui começa a nossa lista>
-	<-- A lista sempre vai começar com (.)>
-	<li> item que contém na lista </li>
-	</ul> <-- Aqui termina a nossa lista>
+	<head>
+		<title> Documeto das tags </title>
+		<meta charset="UTF-8" />
+	</head>
 
-	<strong> Frase importante </strong>
+	<body>
+		<p>Paragrafo </p>
 
-	<ol> <-- aqui começa a nossa lista>
-	<-- sendo ela numerada>
-	<li> item que contém na lista </li>
-	<-- aqui termina a nossa lista>
+		<a href="link">nome do link</a>
 
-  </body>
+		<ul>
+			<!-- indica que aqui comeÃ§a a nossa lista-->
+			<!-- A lista sempre vai comeÃ§ar com (.)-->
+			<li> item que contem na lista </li>
+		</ul>
+		<!-- Aqui termina a nossa lista-->
+
+		<strong> Frase importante </strong>
+
+		<ol>
+			<!-- aqui comeï¿½a a nossa lista sendo ela numerada-->
+			<li> item que contÃ©m na lista </li>
+			<!-- aqui termina a nossa lista-->
+		</ol>
+	</body>
+
 </html>
-
