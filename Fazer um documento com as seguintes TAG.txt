@@ -1,0 +1,22 @@
+HTML, Head, Body, p, a, ul, ol, li e strong.
+
+<!doctype html>
+<html>
+     <head>  <head/>
+  <body>
+	<p> <p/>
+	<a charset=" " />
+
+	<ul> <-- indica que aqui começa a nossa lista>
+	<-- A lista sempre vai começar com (.)>
+	<li> item que contém na lista </li>
+	</ul> <-- Aqui termina a nossa lista>
+
+	<ol> <-- aqui começa a nossa lista>
+	<-- sendo ela numerada>
+	<li> item que contém na lista </li>
+	<-- aqui termina a nossa lista>
+
+  </body>
+</html>
+
