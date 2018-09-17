@@ -23,7 +23,7 @@
 		<strong> Frase importante </strong>
 
 		<ol>
-			<!-- aqui come�a a nossa lista sendo ela numerada-->
+			<!-- aqui começa a nossa lista sendo ela numerada-->
 			<li> item que contém na lista </li>
 			<!-- aqui termina a nossa lista-->
 		</ol>

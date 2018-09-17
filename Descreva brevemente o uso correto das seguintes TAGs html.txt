@@ -1,14 +1,14 @@
 <header>, <article>, <section>, <footer>
 
-O <header> é um elemento introdutório, que pode ser um cabeçalho, um logotipo da empresa, um titulo de um artigo..
+O <header> ï¿½ um elemento introdutï¿½rio, que pode ser um cabeï¿½alho, um logotipo da empresa, um titulo de um artigo..
 
-<article> A tag serve para ser o escopo da pagina ela é responsavel por carregar todo o conteudo da pagina.
+<article> A tag serve para ser o escopo da pagina ela ï¿½ responsavel por carregar todo o conteudo da pagina.
 
 <section> Define um bloco de um assunto especifico
 
-<footer> A tag é geralmennte usada no rodapé da página
+<footer> A tag ï¿½ geralmennte usada no rodapï¿½ da pï¿½gina
 
-* O que é o DOM?
+* O que ï¿½ o DOM?
 
- O dom é uma arvore aonde voce tem acesso a todo documento html, e uma forma de manipular os objetos que estão nele é usando o javaScript.
-Mas para conseguir manipular as interfaces do javaScript é preciso de DOM, porque ele é uma forma mais simples de se conseguir mudar um layout de uma pagina por exemplo.
+ O dom ï¿½ uma arvore aonde voce tem acesso a todo documento html, e uma forma de manipular os objetos que estï¿½o nele ï¿½ usando o javaScript.
+Mas para conseguir manipular as interfaces do javaScript ï¿½ preciso de DOM, porque ele ï¿½ uma forma mais simples de se conseguir mudar um layout de uma pagina por exemplo.
