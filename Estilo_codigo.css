@@ -1,0 +1,13 @@
+
+.shrek{
+    background-image: url("thE1IVGRT6.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100px;
+}
+div p{
+    font-size: 18px;
+    color:red;
+}
